@@ -2,6 +2,6 @@
   <h3>About</h3>
 </template>
 
-<script></script>
+<script  lang="ts" setup></script>
 
 <style></style>
