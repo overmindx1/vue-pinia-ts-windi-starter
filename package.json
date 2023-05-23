@@ -14,14 +14,14 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.4",
-    "eslint": "^8.34.0",
-    "eslint-config-prettier": "^8.6.0",
+    "eslint": "^8.41.0",
+    "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-vue": "^8.7.1",
     "prettier": "2.5.1",
-    "typescript": "4.9.4",
+    "typescript": "^5.0.4",
     "vite": "^2.9.15",
-    "vite-plugin-windicss": "^1.8.10",
-    "vue-tsc": "1.0.24",
+    "vite-plugin-windicss": "^1.9.0",
+    "vue-tsc": "^1.6.5",
     "windicss": "^3.5.6"
   }
 }
