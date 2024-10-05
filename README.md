@@ -1,6 +1,6 @@
 # Vite - Pinia - TypeScript - Windi Starter
 
-Vite - Vue 3 - Pinia - Vue Router 4 - TypeScript - Windi CSS - ESLint - Prettier
+Vite - Vue 3 - Pinia - Vue Router 4 - TypeScript - Uno CSS - ESLint - Prettier
 
 This template should help get you started developing with Vue 3 and Typescript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 and Typescript i
 
 - 🍍 [State Management via Pinia](https://pinia.esm.dev/)
 
-- 🎨 [Windi CSS](https://github.com/windicss/windicss)
+- 🎨 [UNO CSS](https://unocss.dev/)
 
 - 🎨 [ESLint](https://eslint.org/), [Prettier](https://prettier.io)
 
